@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtereetch",
+        "uuid": 16837464,
+        "checksum": "k7934b"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
